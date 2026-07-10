@@ -1,6 +1,7 @@
 # Data Jobs Market Analysis using Power BI 
 ### Project Overview  
 This project presents an interactive Power BI dashboard analyzing the global data job market. The dashboard provides insights into hiring trends, salary patterns, skill demand, remote work opportunities, and hiring companies to support data-driven business.
+
 The project was built following Business Intelligence best practices, including star schema data modeling, DAX calculations, Power Query transformations, and executive-level dashboard design.
 
 ## Business Problem
