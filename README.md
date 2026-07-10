@@ -136,9 +136,7 @@ The dataset consists of job postings collected from publicly available sources.
 - Executive Reporting
 
 ## Repository Structure
-Data-Jobs-Market-Analysis-PowerBI
-│
-├── README.md
-├── Dashboard Screenshots
-├── Power BI File
-└── Documentation
+- README.md
+- Power BI File/ – Dashboard file and semantic model.
+- Dashboard_Screenshots/ - Visual snapshots of key dashboards and insights.
+- Documentation/ – Data model
