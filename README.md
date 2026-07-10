@@ -120,6 +120,7 @@ The dataset consists of job postings collected from publicly available sources.
 - Skills_Dim
 - Skills_Job_Dim
 - Schedule_Dim
+
 **Note**: The Date_Dim table was created directly in Power BI.
 
 ## Skills Demonstrated
