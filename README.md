@@ -134,3 +134,11 @@ The dataset consists of job postings collected from publicly available sources.
 - Analytical Thinking
 - Business Storytelling
 - Executive Reporting
+
+## Repository Structure
+Data-Jobs-Market-Analysis-PowerBI
+│
+├── README.md
+├── Dashboard Screenshots
+├── Power BI File
+└── Documentation
